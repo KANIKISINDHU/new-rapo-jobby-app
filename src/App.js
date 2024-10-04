@@ -41,7 +41,6 @@ const salaryRangesList = [
 
 // Replace your code here
 
-
 import {Component} from 'react'
 import {Route, Switch, Redirect} from 'react-router-dom'
 
@@ -71,4 +70,3 @@ class App extends Component {
 }
 
 export default App
-
